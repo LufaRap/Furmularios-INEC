@@ -1,0 +1,32 @@
+
+ table, th, tr, td{
+ 	border:2px solid black; 
+ 	border-collapse:collapse; 
+ 	padding:5px;
+ 	margin: 50px; 
+ 	text-align:left;
+
+ }
+#logos {
+
+	padding-left: 300px;
+
+}
+
+.col{
+    
+    background: skyblue;
+    color: red;
+    width:100px;
+    height: 600px;
+    padding:30px ;
+    border:10px solid #000;
+    margin:50px;
+    
+}
+
+.titulo h1{
+	
+	text-align: center; 
+}
+
